@@ -1,18 +1,18 @@
-# Week2 - CSS Portfolio Website
+#Week2 Personal Portfolio Website
 
-## Project Overview
+## About the Project
 
-This project is a personal portfolio website developed using HTML and CSS as part of the Week 2 Internship Task. The website showcases personal information, skills, education, and contact details with improved styling and responsive design.
+This is a responsive personal portfolio website created using HTML and CSS. The project was developed as part of the Week 2 CSS Internship Assignment. It showcases personal information, education, skills, and contact details in a clean and professional layout.
 
 ## Features
 
-* Professional portfolio layout
+* Responsive design using Media Queries
 * External CSS styling
-* Responsive design for mobile and desktop devices
 * Circular profile image
 * Hover effects on buttons and links
+* Styled sections and cards
+* Mobile-friendly layout
 * Clean and modern user interface
-* Organized content sections
 
 ## Technologies Used
 
@@ -22,59 +22,55 @@ This project is a personal portfolio website developed using HTML and CSS as par
 ## Project Structure
 
 portfolio-website/
-│
+
 ├── index.html
+
 ├── style.css
+
 ├── README.md
-└── images
-    └── nandlal.jpg
-    
-## CSS Concepts Implemented
 
-### Selectors Used
+└── nandlal.jpg
 
-* Element Selector (`body`, `h1`, `p`)
-* Class Selector (`.container`, `.btn`)
-* ID Selector (`#about`, `#skills`)
+## CSS Concepts Used
 
-### Styling Features
+### Selectors
 
-* Background colors
-* Font styling
-* Border radius
-* Box shadow
-* Margin and padding
-* Text alignment
-* Hover effects
-* Responsive design
+* Element Selectors
+* Class Selectors
+* ID Selectors
 
-## How to Run the Project
+### Styling Techniques
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Double-click `index.html` or open it in any web browser.
-4. The portfolio website will load successfully.
+* Colors and Backgrounds
+* Typography
+* Margin and Padding
+* Border Radius
+* Box Shadow
+* Hover Effects
+* Responsive Design
 
 ## Responsive Design
 
-The website is designed to work properly on:
+Media Queries have been used to make the website responsive for different screen sizes, including mobile devices and tablets.
 
-* Desktop
-* Laptop
-* Tablet
-* Mobile devices
+## How to Run
 
-## Technical Requirements Completed
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in any web browser.
+4. The portfolio website will load successfully.
 
-* External CSS file used (`style.css`)
+## Learning Outcomes
 
-* Multiple CSS selectors implemented
+Through this project, I learned:
 
-* Hover effects added
-
-* Responsive design included
-
-* Professional layout and styling applied
+* HTML page structuring
+* CSS styling techniques
+* Responsive web design
+* Media Queries
+* Hover effects
+* Image styling
+* Creating professional web layouts
 
 ## Author
 
@@ -88,5 +84,4 @@ Tamil Nadu, India
 
 ## Conclusion
 
-This project successfully demonstrates the use of HTML and CSS to create a visually appealing and responsive portfolio website. It fulfills all Week 2 internship requirements and provides a solid foundation for future web development projects.
-
+This project demonstrates the use of HTML and CSS to build a responsive and visually appealing portfolio website. It fulfills all the requirements of the Week 2 CSS Internship Assignment.
